@@ -16,3 +16,10 @@ Tools & Libraries
 - Python:Pandas, Matplotlib, Seaborn  
 - Dataset:NASA POWER (sampled rainfall data for Kwara State)  
 - Visualization:Line plots showing rainfall trends (1990–2020)
+
+---
+
+Example Output
+Average annual rainfall in Kwara State (1990–2020):
+
+![Rainfall Trend](visuals/rainfall_trend_plot.png)
