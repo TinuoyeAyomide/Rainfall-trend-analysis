@@ -13,9 +13,9 @@ Objectives
 ---
 
 Tools & Libraries
-- Python:Pandas, Matplotlib, Seaborn  
-- Dataset:NASA POWER (sampled rainfall data for Kwara State)  
-- Visualization:Line plots showing rainfall trends (1990–2020)
+- Python: Pandas, Matplotlib, Seaborn  
+- Dataset:BNASA POWER (sampled rainfall data for Kwara State), NiMET
+- Visualization: Line plots showing rainfall trends (1990–2020)
 
 ---
 
@@ -53,3 +53,16 @@ Future Work
 - Integrate temperature and crop yield data for correlation analysis  
 - Apply machine learning for rainfall prediction  
 - Use GeoPandas or QGIS for spatial visualization and mapping  
+
+---
+
+Author
+Ayomide TINUOYE  
+- 🌍 GitHub: [TinuoyeAyomide](https://github.com/TinuoyeAyomide)  
+- 📧 Email: Tinuoyeayomide@gmail.com  
+- 🎓 Field: Water Resources & Environmental Engineering  
+
+---
+
+Acknowledgment
+Dataset adapted from publicly available NASA POWER and the Nigerian Meterological Agency rainfall data.
