@@ -24,7 +24,7 @@ Average annual rainfall in Kwara State (1990–2020):
 
 ![Rainfall Trend](visuals/rainfall_trend_plot.png)
 
-🚀 How to Run
+How to Run
 1. Clone this repository to your local machine:  
    ```
    git clone https://github.com/TinuoyeAyomide/rainfall-trend-analysis.git
@@ -45,3 +45,11 @@ Data Description
 | Year | Year of observation |
 | Month | Month of observation (1–12) |
 | Rainfall (mm) | Monthly rainfall in millimeters |
+
+---
+
+Future Work
+- Compare rainfall trends across multiple Nigerian states  
+- Integrate temperature and crop yield data for correlation analysis  
+- Apply machine learning for rainfall prediction  
+- Use GeoPandas or QGIS for spatial visualization and mapping  
