@@ -23,3 +23,16 @@ Example Output
 Average annual rainfall in Kwara State (1990–2020):
 
 ![Rainfall Trend](visuals/rainfall_trend_plot.png)
+
+🚀 How to Run
+1. Clone this repository to your local machine:  
+   ```
+   git clone https://github.com/TinuoyeAyomide/rainfall-trend-analysis.git
+
+2. Install dependencies:  
+   ```
+   pip install -r requirements.txt
+
+3. Run the Python script:  
+   ```
+   python scripts/rainfall_analysis.py
