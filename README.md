@@ -9,3 +9,10 @@ Objectives
 - Analyze monthly and annual rainfall patterns  
 - Identify long-term rainfall trends and variability  
 - Visualize rainfall data to reveal climate insights  
+
+---
+
+Tools & Libraries
+- Python:Pandas, Matplotlib, Seaborn  
+- Dataset:NASA POWER (sampled rainfall data for Kwara State)  
+- Visualization:Line plots showing rainfall trends (1990–2020)
