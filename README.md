@@ -36,3 +36,12 @@ Average annual rainfall in Kwara State (1990–2020):
 3. Run the Python script:  
    ```
    python scripts/rainfall_analysis.py
+
+---
+
+Data Description
+| Column | Description |
+|---------|--------------|
+| Year | Year of observation |
+| Month | Month of observation (1–12) |
+| Rainfall (mm) | Monthly rainfall in millimeters |
